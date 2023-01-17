@@ -1,2 +1,2 @@
-# semantic_interoperability_showcase
+AURIN semantic interoperability showcase
 AURIN semantic interoperability project showcase repository.
